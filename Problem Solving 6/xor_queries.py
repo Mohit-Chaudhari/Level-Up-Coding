@@ -66,8 +66,6 @@ class Solution:
                 prefix_xor.append(A[i])
             else:
                 prefix_xor.append(prefix_xor[i-1] ^ A[i])
-        print("PREFIX XOR     : ", prefix_xor)
-        print("COUNT OF ZEROS : ", zeroes)
 
         i = 0
         parent = list()
@@ -75,8 +73,6 @@ class Solution:
             child = list()
             left = B[i][0]
             right = B[i][1]
-            print("LEFT : ", left-2)
-            print("RIGHT : ", right-1)
             # APPEND XOR FROM LEFT TO RIGHT
             if left == 1 or 0 and right == len(A):
                 child.append(prefix_xor[right-1])
