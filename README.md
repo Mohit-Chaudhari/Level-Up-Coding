@@ -25,7 +25,17 @@
 
 ---
 
-![Prudhvi's github stats](https://github-readme-stats.vercel.app/api?username=Mohit-Chaudhari&show_icons=true&hide_border=true)
+<!-- ![Prudhvi's github stats](https://github-readme-stats.vercel.app/api?username=Mohit-Chaudhari&show_icons=true&hide_border=true) -->
+<!-- GitHub stats -->
+<b>⚡ My GitHub Statistics</b>
+
+<p>
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohit-Chaudhari&show_icons=true&hide_border=true" />
+
+<!-- Most Used Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Chaudhari&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 ---
 
@@ -61,7 +71,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/Mohit-Chaudhari/count.svg" alt="dev-akshat profile views" /> 
+  <img src="https://profile-counter.glitch.me/Mohit-Chaudhari/count.svg" alt="Mohit-Chaudhari profile views" /> <br/>
 </p>
 
 ---
