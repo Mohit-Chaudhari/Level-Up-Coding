@@ -1,9 +1,5 @@
 # Level Up Coding
 
-<p align="center">I'm a python developer.<br/>I specialize in Automation and Data structures.<br> I also love gardening, trekking etc.<br></p><br/>
-
-<p align = "center"><a href="https://www.buymeacoffee.com/mohitchaudhari"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
-
 - Problem Solving 1
     - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Problem%20Solving%201/beggars_outside_temple.py">Beggars Outside Temple</a>
     - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Problem%20Solving%201/pick_from_both_sides.py">Pick from both sides!</a>
@@ -38,6 +34,11 @@
 - Basics of Maths
     - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Basics%20of%20Maths/Palindrome%20Integer.py">Palindrome Integer</a>
     - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Basics%20of%20Maths/excel_column_number.py">Excel Column Number</a>
+
+---
+<p align="center">I'm a python developer.<br/>I specialize in Automation and Data structures.<br> I also love gardening, trekking etc.<br></p><br/>
+
+<p align = "center"><a href="https://www.buymeacoffee.com/mohitchaudhari"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
 
 ---
 
