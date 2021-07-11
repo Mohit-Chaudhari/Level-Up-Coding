@@ -4,6 +4,10 @@
 
 <p align = "center"><a href="https://www.buymeacoffee.com/mohitchaudhari"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
 
+- Problem Solving 1
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Problem%20Solving%201/beggars_outside_temple.py">Beggars Outside Temple</a>
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Problem%20Solving%201/pick_from_both_sides.py">Pick from both sides!</a>
+
 - Problem Solving 2
     - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Problem%20Solving%202/column_sum.py">Column Sum</a>
     - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Problem%20Solving%202/count_ways_to_make_sum_of_odd_and_even_indexed_elements_equal_by_removing_an_array_element.py">Count ways to make sum of odd and even indexed elements equal by removing an array element</a>
@@ -26,6 +30,14 @@
     - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Problem%20Solving%206/bulbs.py">Bulbs problem</a>
     - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Problem%20Solving%206/square_granites.py">Square Granites</a>
     - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Problem%20Solving%206/xor_queries.py">Xor queries</a>
+
+- Introduction to Recursion
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Introduction%20to%20Recursion/check_palindrome.py">Check Palindrome</a>
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Introduction%20to%20Recursion/find_fibonacci.py">Find Fibonacci</a>
+
+- Basics of Maths
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Basics%20of%20Maths/Palindrome%20Integer.py">Palindrome Integer</a>
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Basics%20of%20Maths/excel_column_number.py">Excel Column Number</a>
 
 ---
 
