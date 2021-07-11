@@ -1,5 +1,9 @@
 # Level Up Coding
 
+<p align="center">I'm a python developer.<br/>I specialize in Automation and Data structures.<br> I also love gardening, trekking etc.<br></p><br/>
+
+<p align = "center"><a href="https://www.buymeacoffee.com/mohitchaudhari"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
+
 - Problem Solving 2
     - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Problem%20Solving%202/column_sum.py">Column Sum</a>
     - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Problem%20Solving%202/count_ways_to_make_sum_of_odd_and_even_indexed_elements_equal_by_removing_an_array_element.py">Count ways to make sum of odd and even indexed elements equal by removing an array element</a>
@@ -35,6 +39,7 @@
 
 <!-- Most Used Languages -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Chaudhari&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+    <img align="center" src = "https://github-readme-streak-stats.herokuapp.com/?user=Mohit-Chaudhari&">
 </p>
 
 ---
