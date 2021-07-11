@@ -22,3 +22,51 @@
     - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Problem%20Solving%206/bulbs.py">Bulbs problem</a>
     - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Problem%20Solving%206/square_granites.py">Square Granites</a>
     - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Problem%20Solving%206/xor_queries.py">Xor queries</a>
+
+---
+
+![Prudhvi's github stats](https://github-readme-stats.vercel.app/api?username=Mohit-Chaudhari&show_icons=true&hide_border=true)
+
+---
+
+<h2 align="center">Connect with me 🤝</h2>
+
+<p align="center">
+
+<a href="https://t.me/chaudharimohit39">
+  <img alt="Instagram" width="22px" align="center" alt="Dave's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
+</a> &nbsp&nbsp&nbsp&nbsp
+
+<a href="https://github.com/Mohit-Chaudhari">
+  <img alt="Instagram" width="22px" align="center" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+</a> &nbsp&nbsp&nbsp&nbsp
+
+<a href="https://www.instagram.com/iam_mohitc/">
+  <img alt="Instagram" width="22px" align="center" alt="Dave's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
+</a> &nbsp&nbsp&nbsp&nbsp
+
+<a href="https://www.linkedin.com/in/mohit-chaudhari-1018/">
+  <img alt="Instagram" width="22px" align="center" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+</a> &nbsp&nbsp&nbsp&nbsp
+
+</p>
+<br/>
+
+---
+
+<p align="center"> 
+  <samp>
+    Profile Views Count
+  </samp>
+</p>
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/Mohit-Chaudhari/count.svg" alt="dev-akshat profile views" /> 
+</p>
+
+---
+
+<p align="center">
+  Made with ❤️ in Nashik
+</p>
+
