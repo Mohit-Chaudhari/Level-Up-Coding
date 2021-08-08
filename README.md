@@ -1,16 +1,57 @@
 # Level Up Coding
 
+- Arrays & Dynamic Arrays
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Arrays%20%26%20Dynamic%20Arrays/add_one_to_number.py">Add One To Number</a>
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Arrays%20%26%20Dynamic%20Arrays/multiplication_of_previous_and_next.py">Multiplication of previous and next</a>
+
+- Arrays 1
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Arrays%201/add_one_to_number.py">Add One To Number</a>
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Arrays%201/max_non_negative%20_subArray.py">Max Non Negative SubArray</a>
+
+- Arrays 2
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Arrays%202/rotate_matrix.py">Rotate Matrix</a>
+
 - Basics of Maths
     - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Basics%20of%20Maths/Palindrome%20Integer.py">Palindrome Integer</a>
     - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Basics%20of%20Maths/excel_column_number.py">Excel Column Number</a>
 
+- Bit Manipulation
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Bit%20Manipulation/different_bits_sum_pairwise.py">Different Bits Sum Pairwise</a>
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Bit%20Manipulation/min_XOR_value.py">Min XOR value</a>
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Bit%20Manipulation/single_number.py">Single Number</a>
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Bit%20Manipulation/single_number_II.py">Single Number II</a>
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Bit%20Manipulation/single_number_III.py">Single Number III</a>
+
+- Introduction to Hashing
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Introduction%20to%20Hashing/permutations_of_A_in_B.py">Permutations of A in B</a>
+
 - Introduction to Problem Solving
     - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Introduction%20to%20Problem%20Solving/minimum_picks.py">MINIMUM PICKS</a>
     - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Introduction%20to%20Problem%20Solving/pattern_printing_1.py">Pattern Printing - 1</a>
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Introduction%20to%20Problem%20Solving/elements_which_have_at_least_two_greater_elements.py">Elements which have at-least two greater elements</a>
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Introduction%20to%20Problem%20Solving/smaller_and_greater.py">Smaller and Greater</a>
 
 - Introduction to Recursion
     - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Introduction%20to%20Recursion/check_palindrome.py">Check Palindrome</a>
     - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Introduction%20to%20Recursion/find_fibonacci.py">Find Fibonacci</a>
+
+- Introduction to Sorting
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Introduction%20to%20Sorting/largest_number.py">Largest Number</a>
+
+- Maths - Modular Arithmetic
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Maths%20-%20Modular%20Arithmetic/a_b_and_modulo.py">A, B and Modulo</a>
+
+- Maths : GCD
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Maths%20:%20GCD/greatest_common_divisor.py">Greatest Common Divisor</a>
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Maths%20:%20GCD/largest_coprime_divisor.py">Largest Coprime Divisor</a>
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Maths%20:%20GCD/pubg.py">Pubg</a>
+
+- Maths : Prime numbers
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Maths%20:%20Prime%20numbers/number_of_open_doors.py">Number Of Open Doors</a>
+
+- More Problems on Hashing
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/More%20Problems%20on%20Hashing/colorful_number.py">Colorful Number</a>
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/More%20Problems%20on%20Hashing/perfect_cards.py">Perfect Cards</a>
 
 - Problem Solving 1
     - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Problem%20Solving%201/beggars_outside_temple.py">Beggars Outside Temple</a>
@@ -52,6 +93,9 @@
 
 - String Manipulation
     - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/String%20Manipulation/closest_palindrome.py">Closest Palindrome</a>
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/String%20Manipulation/count_occurrences.py">Count Occurrences</a>
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/String%20Manipulation/lexicographically_largest.py">Lexicographically Largest</a>
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/String%20Manipulation/string_operations.py">String operations</a>
 
 ---
 <p align="center">I'm a python developer.<br/>I specialize in Automation and Data structures.<br> I also love gardening, trekking etc.<br></p><br/>
