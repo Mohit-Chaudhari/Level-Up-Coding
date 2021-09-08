@@ -65,7 +65,6 @@ class Solution:
     # @param A : string
     # @return a strings
     def solve(self, arr):
-        ln = len(arr)
         lst = list()
         for i in arr:
             if lst:
