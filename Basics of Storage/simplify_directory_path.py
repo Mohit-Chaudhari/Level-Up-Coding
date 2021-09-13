@@ -36,6 +36,7 @@
 class Solution:
     # @param A : string
     # @return a strings
+
     def simplifyPath(self, A):
         # stack to store the file's names.
         st = []
