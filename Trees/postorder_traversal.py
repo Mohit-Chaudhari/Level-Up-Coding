@@ -62,19 +62,19 @@
 #  The Preoder Traversal of the given tree is [6, 3, 2, 1].
 
 # Definition for a  binary tree node
-# class TreeNode:
-#	def __init__(self, x):
-#		self.val = x
-#		self.left = None
-#		self.right = None
+class TreeNode:
+    def __init__(self, x):
+        self.val = x
+        self.left = None
+        self.right = None
+
 
 class Solution:
     # @param A : root node of tree
     # @return a list of integers
-    def postorderTraversal(self, A):
+    def postorderTraversal(self, root):
 
         stack = list()
-        root = A
         arr = list()
 
         while root is not None:
@@ -108,3 +108,24 @@ class Solution:
                     root = None
 
         return arr
+
+
+if __name__ == '__main__':
+    root = None
+
+    root = TreeNode(1)
+    root.left = TreeNode(2)
+    root.right = TreeNode(3)
+
+    root.left.left = TreeNode(4)
+    root.left.right = TreeNode(5)
+
+    root.right.left = TreeNode(6)
+    root.right.right = TreeNode(7)
+
+    root.left.right.left = TreeNode(8)
+    root.left.right.right = TreeNode(9)
+
+    node = Solution()
+    print(node.postorderTraversal(root))
+
