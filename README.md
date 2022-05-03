@@ -194,10 +194,10 @@
     - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Sorting%202/game_of_bottles.py">Game of Bottles</a>
 
 - Stacks II
-    <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Stacks%20II/double_character_trouble.py">Double Character Trouble</a>
-    <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Stacks%20II/evaluate_expression.py">Evaluate Expression</a>
-    <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Stacks%20II/largest_rectangle_in_histogram.py">Largest Rectangle in Histogram</a>
-    <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Stacks%20II/nearest_smaller_element.py">Nearest Smaller Element</a>
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Stacks%20II/double_character_trouble.py">Double Character Trouble</a>
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Stacks%20II/evaluate_expression.py">Evaluate Expression</a>
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Stacks%20II/largest_rectangle_in_histogram.py">Largest Rectangle in Histogram</a>
+    - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Stacks%20II/nearest_smaller_element.py">Nearest Smaller Element</a>
 
 - Stacks
     - <a href="https://github.com/Mohit-Chaudhari/Level-Up-Coding/blob/main/Stacks/maximum_frequency_stack.py">Maximum Frequency stack</a>
